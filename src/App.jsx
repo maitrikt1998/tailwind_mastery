@@ -6,7 +6,7 @@ import BannerImg from "./assets/young_boy.png";
 import OurTeam from "./assets/our_team.png";
 import HeroImg from "./assets/boy_sitting_chair.png";
 import { Footer } from "./components/Footer/Footer";
-import { Mission_services } from "./components/Services/mission_services";
+import { Mission_services } from "./components/Services/Mission_services";
 
 const App = () => {
   return (
